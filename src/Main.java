@@ -10,7 +10,7 @@ public class Main {
         // Variable defined, created Scanner object and injected to defined variable.
 
         if (year % 4 == 0) {
-            System.out.println( year + " is a leap year.");
+            System.out.println( year  + " is a leap year.");
         }
         else {
             System.out.println(year + " is not a leap year.");
